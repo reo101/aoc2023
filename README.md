@@ -4,8 +4,8 @@ Both the [`Clojure`](./clojure/) and [`Scala`](./scala/) directories are set up 
 
 ## In `Clojure`
 
-- [Day 01](./clojure/src/aoc23/day01.clj)
+- [Day 01](./clojure/aoc2023/src/aoc2023/day01.clj)
 
 ## In `Scala`
 
-- [Day 02](./scala/aoc23/src/main/scala/Day02.scala)
+- [Day 02](./scala/aoc2023/src/main/scala/Day02.scala)

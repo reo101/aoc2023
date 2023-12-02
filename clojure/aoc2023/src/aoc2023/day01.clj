@@ -1,4 +1,4 @@
-(ns aoc23.day01
+(ns aoc2023.day01
   (:require
    [clojure.string :as string]
    [typed.clojure :as t]))
@@ -38,7 +38,7 @@ output-1
 ;;; Part 2 ;;;
 ;;;;;;;;;;;;;;
 
-(def input-2 (slurp "../data/01/2.in"))
+(def input-2 (slurp "../../data/01/2.in"))
 
 (def number-names
   {:zero  0
